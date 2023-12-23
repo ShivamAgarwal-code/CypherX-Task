@@ -1,6 +1,6 @@
 import React from 'react'
 import './Card.css';
-import img from './RanjeetPic.png'
+import img from './cool.jpg'
 const Card = ({id, title, tag, status}) => {
   return (
     <div className="cardContainer flex-gap-10" style={{gap : '5px'}}>
